@@ -1,4 +1,4 @@
-#Bio
+# Bio
 
 24 years-old with a 20 years interest in computers.
 
@@ -9,9 +9,9 @@ Bioinformatist, data freak, self-starter developer.
 Ever-eager to learn and produce more from the programming world, in order to make lives *better* in the concrete world.
 
 
-#Development history
+# Development history
 
-##Working tools
+## Working tools
 
 My first contact with programming rose from the necessity to automatize data manipulation and analysis for research; simple and functionl bioinformatics, that led to the creation of a library of useful [tools](https://github.com/lpmarques/BItools-lib/).
 
@@ -22,15 +22,15 @@ To molecular scientists, it is also of usual interest to access base (character)
 
 Those interested in macroevolutionary issues could also make good use of [few scripts](https://github.com/lpmarques/BItools-lib/tree/master/Automated_tree_analyses) I developed to automatize analyses of big evolutionary trees (with potentially hundreds or thousands of terminal nodes). Among others, they include a simple subroutine to [unroot](https://github.com/lpmarques/BItools-lib/blob/master/Automated_tree_analyses/unroot.pl) trees and a more complex one that can [detect differences](https://github.com/lpmarques/BItools-lib/blob/master/Automated_tree_analyses/treeDist.pl) between partitions of two trees and summarize them in what is usually referred as "topological distances".
 
-##Projects
+## Projects
 
 Even though I started in the coding world, 3 years ago, by learning python, my main language for the last 2 years has been Perl because it was common ground at my work place. Nevertheless, since my research project to achieve master's degree, data has been the air that I breath and to develop experience in data analysis with R became inevitable, as much as in building Sheel pipelines to integrate multiple softwares in complex tasks. A piece of this work can be checked [here](https://github.com/lpmarques/EqDelta).
 
 Last but not least, I am currently developing **phyTest**, a software that can perform multiple statistical tests regarding evolutionary tree models. Although still in testing phase, it is already the most flexible program (that I know of) in terms of different approaches to determine tree confidence and this can be checked [here](https://github.com/lpmarques/phyTest) (an english version for the manual will be available soon).
 
 
-#Where to find me
+# Where to find me
 
-* E-mail: lucasmarques.bio@gmail.com
+* lucasmarques.bio@gmail.com
 * [Linkedin](https://www.linkedin.com/in/lucas-marques-370535a6/)
 * [Facebook](https://www.facebook.com/lucas.pmarques?ref=bookmarks)
