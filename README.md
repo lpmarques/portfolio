@@ -1,4 +1,4 @@
-# Bio
+## Bio
 
 24 years-old with a 20 years interest in computers.
 
@@ -6,30 +6,30 @@ Degrees in genetics and evolutionary biology.
 
 Bioinformatist, data freak, self-starter developer.
 
-Ever-eager to learn and produce more from the programming world, in order to make lives *better* in the concrete world.
+Ever eager to learn (and make) more from the programming world, in order to enhance lives in the concrete one.
 
 
-# Development history
+## Development history
 
-## Working tools
+### Work tools
 
-My first contact with programming rose from the necessity to automatize data manipulation and analysis for research; simple and functionl bioinformatics, that led to the creation of a library of useful [tools](https://github.com/lpmarques/BItools-lib/).
+My first contact with programming rose from the need to automatize data manipulation routines for research; simple and functionl bioinformatics that led to the creation of a [library](https://github.com/lpmarques/BItools-lib/) of tools.
 
 For the puposes of accessing, filtering and cleaning DNA sequences, a handful of them can be checked [here](https://github.com/lpmarques/BItools-lib/tree/master/Sequence_processing).
-These include a script for [convertion](https://github.com/lpmarques/BItools-lib/blob/master/Sequence_processing/multiGB2fasta.pl) of often confusing file formats like *gb* (from [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) database searches) into a readily functional multisequence *fasta* file; another one for a complete job of [data cleaning](https://github.com/lpmarques/BItools-lib/blob/master/Sequence_processing/zblocks.pl) on sequence alignments and also a tool for automatic [concatenation](https://github.com/lpmarques/BItools-lib/blob/master/Sequence_processing/concatenator.pl) of many sequence alignments (a less trivial job than it may sound).
+They include a script for [conversion](https://github.com/lpmarques/BItools-lib/blob/master/Sequence_processing/multiGB2fasta.pl) of the (often confusing) *multigb* file format (obtained from any [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) database search) to a cleaner multisequence *fasta* file; as well as one that executes a complete [data cleaning](https://github.com/lpmarques/BItools-lib/blob/master/Sequence_processing/zblocks.pl) job on sequence alignments. A tool for automatic [concatenation](https://github.com/lpmarques/BItools-lib/blob/master/Sequence_processing/concatenator.pl) of multiple sequence alignments is also included.
 
-To molecular scientists, it is also of usual interest to access base (character) composition of their sequence alignments. In that case, they could find useful scripts [here](https://github.com/lpmarques/BItools-lib/tree/master/Alignment_composition_analyses), to simply [calculate](https://github.com/lpmarques/BItools-lib/blob/master/Alignment_composition_analyses/gapcounter.pl) the total proportion of (often undesireble) gap characters, or even to [access](https://github.com/lpmarques/BItools-lib/blob/master/Alignment_composition_analyses/sitereader.pl) detailed information on base composition across all columns of an alignment.
+To molecular scientists, it is also of usual interest to determine base (character) composition of their DNA sequence alignments. In this case, they could find useful scripts [here](https://github.com/lpmarques/BItools-lib/tree/master/Alignment_composition_analyses) that can simply [calculate](https://github.com/lpmarques/BItools-lib/blob/master/Alignment_composition_analyses/gapcounter.pl) the total proportion of (often undesireble) gap characters, or even [access](https://github.com/lpmarques/BItools-lib/blob/master/Alignment_composition_analyses/sitereader.pl) detailed information on base composition across all columns of an alignment.
 
-Those interested in macroevolutionary issues could also make good use of [few scripts](https://github.com/lpmarques/BItools-lib/tree/master/Automated_tree_analyses) I developed to automatize analyses of big evolutionary trees (with potentially hundreds or thousands of terminal nodes). Among others, they include a simple subroutine to [unroot](https://github.com/lpmarques/BItools-lib/blob/master/Automated_tree_analyses/unroot.pl) trees and a more complex one that can [detect differences](https://github.com/lpmarques/BItools-lib/blob/master/Automated_tree_analyses/treeDist.pl) between partitions of two trees and summarize them in what is usually referred as "topological distances".
+Those interested in macroevolutionary issues could also make good use of [few scripts](https://github.com/lpmarques/BItools-lib/tree/master/Automated_tree_analyses) I developed to automatize big evolutionary trees analyses (with potentially hundreds or thousands of terminal nodes involved). These include a simple subroutine to [unroot](https://github.com/lpmarques/BItools-lib/blob/master/Automated_tree_analyses/unroot.pl) trees, besides a more complex one that can [detect differences](https://github.com/lpmarques/BItools-lib/blob/master/Automated_tree_analyses/treeDist.pl) between partitions of two trees and summarize them in what is usually referred as "topological distances".
 
-## Projects
+### Projects
 
-Even though I started in the coding world, 3 years ago, by learning python, my main language for the last 2 years has been Perl because it was common ground at my work place. Nevertheless, since my research project to achieve master's degree, data has been the air that I breath and to develop experience in data analysis with R became inevitable, as much as in building Sheel pipelines to integrate multiple softwares in complex tasks. A piece of this work can be checked [here](https://github.com/lpmarques/EqDelta).
+Although I started in the coding world, 3 years ago, by learning python, my main working language for the last 2 years has been Perl, on account of common grounds with my lab's team. Nevertheless, since my research project to achieve master's degree, data has been the air that I breath and it was inevitable to develop experience in data analysis with R, as much as in building Sheel pipelines to integrate multiple softwares on complex tasks. A piece of this work can be seen [here](https://github.com/lpmarques/EqDelta).
 
-Last but not least, I am currently developing **phyTest**, a software that can perform multiple statistical tests regarding evolutionary tree models. Although still in testing phase, it is already the most flexible program (that I know of) in terms of different approaches to determine tree confidence and this can be checked [here](https://github.com/lpmarques/phyTest) (an english version for the manual will be available soon).
+Last but not least, I am currently developing **phyTest**, a software that can perform various statistical tests regarding evolutionary tree models. Although still in alpha phase, it is already the most flexible, public access, software in terms of diversity of approaches to determine tree confidence. The last version of phyTest can always be checked [here](https://github.com/lpmarques/phyTest) (an english version of the manual will be available soon).
 
 
-# Where to find me
+## Where to find me
 
 * lucasmarques.bio@gmail.com
 * [Linkedin](https://www.linkedin.com/in/lucas-marques-370535a6/)
