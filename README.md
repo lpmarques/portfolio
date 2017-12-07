@@ -1,6 +1,6 @@
 ## Bio
 
-24 years-old with a 20 years interest in computers.
+24 years old with a 20-year-old interest in computers.
 
 Degrees in genetics and evolutionary biology.
 
@@ -13,7 +13,7 @@ Ever eager to learn (and make) more from the programming world, in order to enha
 
 ### Work tools
 
-My first contact with programming rose from the need to automatize data manipulation routines for research; simple and functionl bioinformatics that led to the creation of a [library](https://github.com/lpmarques/BItools-lib/) of tools.
+My first contact with programming rose from the need to automatize data manipulation routines for research; simple and functional bioinformatics that led to the creation of a [library](https://github.com/lpmarques/BItools-lib/) of tools.
 
 For the puposes of accessing, filtering and cleaning DNA sequences, a handful of them can be checked [here](https://github.com/lpmarques/BItools-lib/tree/master/Sequence_processing).
 They include a script for [conversion](https://github.com/lpmarques/BItools-lib/blob/master/Sequence_processing/multiGB2fasta.pl) of the (often confusing) *multigb* file format (obtained from any [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) database search) to a cleaner multisequence *fasta* file; as well as one that executes a complete [data cleaning](https://github.com/lpmarques/BItools-lib/blob/master/Sequence_processing/zblocks.pl) job on sequence alignments. A tool for automatic [concatenation](https://github.com/lpmarques/BItools-lib/blob/master/Sequence_processing/concatenator.pl) of multiple sequence alignments is also included.
@@ -24,9 +24,9 @@ Those interested in macroevolutionary issues could also make good use of [few sc
 
 ### Projects
 
-Although I started in the coding world, 3 years ago, by learning python, my main working language for the last 2 years has been Perl, on account of common grounds with my lab's team. Nevertheless, since my research project to achieve master's degree, data has been the air that I breath and it was inevitable to develop experience in data analysis with R, as much as in building Sheel pipelines to integrate multiple softwares on complex tasks. A piece of this work can be seen [here](https://github.com/lpmarques/EqDelta).
+Although I started in the coding world, 3 years ago, by learning python, my main working language for the last 2 years has been Perl, on account of common grounds with my lab's team. Nevertheless, since my research project to achieve master's degree, data has been the air that I breath and it was inevitable to develop experience in data analysis with R, as much as in building Sheel pipelines to integrate multiple softwares on complex tasks. A piece of that work can be seen [here](https://github.com/lpmarques/EqDelta).
 
-Last but not least, I am currently developing **phyTest**, a software that can perform various statistical tests regarding evolutionary tree models. Although still in alpha phase, it is already the most flexible, public access, software in terms of diversity of approaches to determine tree confidence. The last version of phyTest can always be checked [here](https://github.com/lpmarques/phyTest) (an english version of the manual will be available soon).
+Last but not least, I am currently developing **phyTest**, a software that can perform various statistical tests regarding evolutionary tree models. Although still in alpha phase, it is already the most flexible, publicly acessible software in terms of diversity of approaches to determine tree confidence. The last version of phyTest can always be found [here](https://github.com/lpmarques/phyTest) (an english version of the manual will be available soon).
 
 
 ## Where to find me
