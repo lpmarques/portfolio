@@ -24,7 +24,7 @@ Those interested in macroevolutionary issues could also make good use of [few sc
 
 ### Projects
 
-Although I started in the coding world, 3 years ago, by learning python, my main working language for the last 2 years has been Perl, on account of common grounds with my lab's team. Nevertheless, data has been the air that I breath since the beginning of my research project to achieve master's degree, in a way that it was inevitable to get experienced in data analysis with R. Building Sheel pipelines to integrate multiple softwares on complex tasks became a routine just as well. A piece of that work can be seen [here](https://github.com/lpmarques/EqDelta).
+Although I started in the coding world, 3 years ago, by learning python, my main working language for the last 2 years has been Perl, which was a common ground with my lab's team. Nevertheless, since my research project to achieve master's degree involved great amounts of data analysis, it was inevitable to get experienced in with R. Building Sheel pipelines to integrate multiple softwares on complex tasks became a routine just as well. A piece of that work can be seen [here](https://github.com/lpmarques/EqDelta).
 
 Last but not least, I am currently developing **phyTest**, a software that can perform various statistical tests regarding evolutionary tree models. Although still in alpha phase, it is already the most flexible, publicly acessible software in terms of diversity of approaches to determine tree confidence. The last version of phyTest can always be found [here](https://github.com/lpmarques/phyTest) (an english version of the manual will be available soon).
 
