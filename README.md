@@ -28,7 +28,7 @@ Currently, I am developing phyTest, a software that can perform various statisti
 
 ### Competitive Programming
 
-Recently, I have also engaged in the 2018's edition of the international Bioinformatics Contest. Some of the Python scripts that I delevoped (and found most interesting) in the process to qualify to the final round can be checked [here](https://github.com/lpmarques/BIContest2018). These include a heuristic solution to [approximate](https://github.com/lpmarques/BIContest2018/blob/master/realMaxATP.py) the most cost-efficient ballance of glucose and oxygen mols to produce ATP via fermentation or aerobic respiration and an efficient algorithm to [locate](https://github.com/lpmarques/BIContest2018/blob/master/longestTandem.py) the longest tandem repeat in a sequence that fit a user-provided maximum amount of character insertions, deletions or substitutions across it.
+Recently, I have also engaged in the 2018's edition of the international Bioinformatics Contest. Some of the Python scripts that I delevoped (and found most interesting) in the process to qualify to the final round can be checked [here](https://github.com/lpmarques/BIContest2018). These include a heuristic solution to [approximate](https://github.com/lpmarques/BIContest2018/blob/master/realMaxATP.py) the most cost-efficient ballance of glucose and oxygen mols to produce ATP via fermentation or aerobic respiration and an efficient algorithm to [locate](https://github.com/lpmarques/BIContest2018/blob/master/longestTandem.py) the longest tandem repeat in a sequence that fits a user-provided maximum amount of character insertions, deletions or substitutions across it.
 
 ## Where to find me
 
